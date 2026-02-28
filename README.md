@@ -11,7 +11,7 @@
 
 ## 最新 / Latest
 
-**r4**
+**r5**
 
 ## 各パラメータ
 
@@ -64,6 +64,9 @@
 
 
 ## 変更履歴 / Change log
+
+- r5
+  - debug_printでログを汚してしまう問題を修正
 
 - r4
   - スクリプト名称を`Rashat`から`LyricMotioN`に変更
