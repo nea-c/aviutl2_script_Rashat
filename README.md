@@ -66,7 +66,7 @@
 ## 変更履歴 / Change log
 
 - r4
-  - スクリプト名称を`Rashat`から`NeAcLyricMotion`に変更
+  - スクリプト名称を`Rashat`から`LyricMotioN`に変更
   - デフォルト設定を配布
   - 微軽量化
   - 乱数がレイヤー毎に変化する問題の修正
