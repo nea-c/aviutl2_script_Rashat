@@ -1,4 +1,4 @@
-# NeAcLyricMotion
+# LyricMotioN
 
 リリックモーションを簡単に作成できるスクリプト
 
